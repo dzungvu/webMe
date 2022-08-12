@@ -1,1 +1,1 @@
-<?php include_once("index_snap.html"); ?>
+<?php include_once("index.html"); ?>
